@@ -10,7 +10,7 @@ I'am an Applied Artificial Intelligence student at Houston City College with a f
 ├── README.md
 │
 ├── Presentation/
-│   ├── AI_Application_Portfolio_Presentation.pptx
+│   ├── AI_Application_Portfolio_Presentation.PDF
 │   └── presentation_notes.md
 │
 ├── Topics/
