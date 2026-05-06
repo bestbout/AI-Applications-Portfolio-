@@ -20,8 +20,8 @@ I'am an Applied Artificial Intelligence student at Houston City College with a f
 │   │   └── resources.md
 │   │   
 │   ├── Topic-03-AI-in-Healthcare-and-Agriculture/
-│   │   ├── healthcare_notes.md
-│   │   ├── agriculture_notes.md
+│   │   ├── healthcare_and_ Agriculture_notes.md
+│   │   ├── Assignment.md
 │   │   └──resources.md 
 │   │
 │   ├── Topic-04-AI-in-Finance/
