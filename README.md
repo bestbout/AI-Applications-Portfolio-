@@ -25,8 +25,7 @@
 │   │
 │   ├── Topic-05-Smart-Cities-and-Transportation/
 │   │   ├── smart_city_notess.md
-│   │   └── resources.md
-│   │   
+│   │   └── resources.md   
 │   │
 │   ├── Topic-06-AI-in-Entertainment-and-Media/
 │   │   ├── media_ai_notes.md
@@ -41,23 +40,9 @@
 │       ├── retail_ai_notes.md
 │       └── resources.md  
 │
-├── Projects/
-│   ├── Ethical-and-Societal-Implications-of-AI-Case-Study/
-│   ├── AI-in-Government-and-Public-Sector-Case-Study/
-│   ├── AI-in-Manufacturing-Case-Study/
-│   └── AGI-Research-Case-Study/
-│
-├── Resources/
-│   ├── articles/
-│   ├── videos/
-│   ├── research_papers/
-│   └── useful_links.md
-│
-├── Certifications/
-│   ├── certificates/
-│   └── achievements.md
-│
-└── Images/
-    ├── screenshots/
-    ├── diagrams/
-    └── presentation_images/
+└── Projects/
+    ├── Ethical-and-Societal-Implications-of-AI-Case-Study/
+    ├── AI-in-Government-and-Public-Sector-Case-Study/
+    ├── AI-in-Manufacturing-Case-Study/
+    └── AGI-Research-Case-Study/
+
