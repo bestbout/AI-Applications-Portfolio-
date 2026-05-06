@@ -21,11 +21,15 @@ Cities place sensors on bridges, buildings, and roads to monitor structural cond
 Environmental monitoring uses AI to track air quality, temperature, and noise levels across different neighborhoods. This helps identify pollution hotspots and areas affected by urban heat islands. With this information, cities can take action, such as reducing traffic in polluted areas or increasing green spaces. These efforts improve public health and support environmental sustainability.
 Utility & Resource Management
 AI also plays a major role in managing essential resources like electricity, water, and gas.
+
 •	Smart Meters (Water, Gas, & Electric)
 Smart meters provide real-time data about resource usage. Residents can monitor their consumption and adjust their behavior to reduce waste and lower costs. Utility companies can detect leaks, outages, or unusual usage patterns more quickly. This improves efficiency and reduces resource loss.
+
 •	Smart City Lights
 Smart streetlights use motion sensors to adjust brightness depending on activity levels. When streets are empty, the lights dim to save energy. When pedestrians or vehicles are present, the lights brighten to improve safety. This reduces electricity consumption and lowers operational costs for the city.
+
 •	Resource Demands
 During extreme weather events, such as heatwaves, resource demand increases significantly. AI helps manage the power grid by balancing supply and demand in real time. It can recommend reducing non-essential energy usage to prevent system overloads or blackouts. This makes cities more resilient and better prepared for climate-related challenges.
+
 In conclusion, AI is transforming how cities function by making systems smarter and more connected. From traffic management to emergency response and resource distribution, AI improves efficiency, safety, and sustainability. Smart cities are not just about technology; they are about using technology to improve daily life for residents. As AI continues to develop, its role in urban environments will likely expand, helping cities become more adaptive, responsive, and future-ready.
 
